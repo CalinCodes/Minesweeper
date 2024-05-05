@@ -7,6 +7,7 @@ bool ok;
 int grid_width = 10, grid_height = 10, grid[12][12], sgrid[12][12];
 void reset()
 {
+    // test 2
     ok = 1;
     for (int i = 1; i <= 10; i++)
     {
