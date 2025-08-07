@@ -1,0 +1,29 @@
+﻿  Main.cpp
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(6,5): error C2653: 'sf': is not a class or namespace name
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(6,9): error C2065: 'RenderWindow': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(6,22): error C2146: syntax error: missing ';' before identifier 'window'
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(6,29): error C2653: 'sf': is not a class or namespace name
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(6,33): error C3861: 'VideoMode': identifier not found
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(6,22): error C3861: 'window': identifier not found
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(7,5): error C2653: 'sf': is not a class or namespace name
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(7,9): error C2065: 'CircleShape': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(7,21): error C2146: syntax error: missing ';' before identifier 'shape'
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(7,21): error C3861: 'shape': identifier not found
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(8,5): error C2065: 'shape': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(8,24): error C2653: 'sf': is not a class or namespace name
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(8,35): error C2065: 'Green': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(10,12): error C2065: 'window': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(12,9): error C2653: 'sf': is not a class or namespace name
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(12,13): error C2065: 'Event': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(12,19): error C2146: syntax error: missing ';' before identifier 'event'
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(12,19): error C2065: 'event': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(13,16): error C2065: 'window': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(13,33): error C2065: 'event': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(15,17): error C2065: 'event': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(15,31): error C2653: 'sf': is not a class or namespace name
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(15,42): error C2065: 'Closed': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(16,17): error C2065: 'window': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(19,9): error C2065: 'window': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(20,9): error C2065: 'window': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(20,21): error C2065: 'shape': undeclared identifier
+D:\Visual Studio Applications\C++\Minesweeper\Minesweeper\Minesweeper\Main.cpp(21,9): error C2065: 'window': undeclared identifier
